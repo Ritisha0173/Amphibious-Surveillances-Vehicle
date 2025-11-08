@@ -10,3 +10,6 @@ To design and develop an Autonomous Border Surveillance Vehicle capable of patro
 # Novelty
 
 The proposed system introduces a fully autonomous, terrain-adaptive vehicle equipped with AI-based object detection, IoT-enabled remote monitoring, and night-vision surveillance. Unlike conventional stationary systems, this design provides continuous mobility, self-navigation, and automated threat alerts, making it a cost-effective and intelligent alternative for border security operations.
+
+# Solution
+<img width="1110" height="723" alt="Image" src="https://github.com/user-attachments/assets/c545dc4c-4af4-4355-ab5d-ab9f09541a99" />
